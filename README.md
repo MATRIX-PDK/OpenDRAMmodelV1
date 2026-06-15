@@ -29,6 +29,8 @@ By providing consistent device models across
 multiple technology generations, the platform
 enables reproducible evaluation.
 
+<img width="1981" height="1042" alt="image" src="https://github.com/user-attachments/assets/153515ef-964d-4be8-9abe-64f43ebfc3fe" />
+
 
 ## License
 This project is licensed under the Apache License 2.0.
