@@ -1,4 +1,4 @@
-## Open DRAM Model v1
+# Open DRAM Model v1
 Part of the MATRIX PDK (Memory and Advanced Transistor Research Integration Xplatform Process-Design-Kit) ecosystem
 
 Access Transistors and High-Voltage Periphery Transistors for Advanced 6F², 4F² VCT, and 3D DRAM Technologies
