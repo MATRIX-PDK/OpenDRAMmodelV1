@@ -33,9 +33,7 @@ enables reproducible evaluation.
 
 
 ## License
-This project is licensed under the Apache License 2.0.
-It permits use, modification, and distribution for both academic and commercial purposes.
-Users are required to include the original license and provide proper attribution when redistributing this work.
+The MATRIX-PDK Open DRAM Model is provided for academic research and educational purposes only. The framework is publicly available for academic and non-commercial research purposes. Copyright of the models and infrastructure is maintained by the developers. Commercial use, redistribution for commercial purposes, or incorporation into commercial products is prohibited without prior written permission from Georgia Institute of Technology.
 
 ## Citation
 If you use the tool or adapt the tool in your work or publication, you are required to cite the following reference:
